@@ -1,0 +1,1 @@
+web: gunicorn meu_app.wsgi
