@@ -4,4 +4,4 @@ it a simple Streamlit app to analyze and explore Students in an intercative way 
 Original dataset can be found [here](https://data.gov.sa/Data/tl/dataset/2014-2021)
 
 ## see it online
-you can view the app online at [](https://sa-schools-analyze.herokuapp.com)
+you can view the app online at [heroku](https://sa-schools-analyze.herokuapp.com)
